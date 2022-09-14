@@ -1,5 +1,5 @@
 package es.campusdual.racecontrol;
 
-public class CarreraEliminacion extends Carreras {
+public class CarreraEliminacion extends Carrera {
 
 }
