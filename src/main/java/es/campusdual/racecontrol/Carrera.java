@@ -15,7 +15,7 @@ public class Carrera {
 	}
 	
 	
-	public void obtainracePodium() {
+	public void obtainRacePodium() {
 		
 	}
 }
